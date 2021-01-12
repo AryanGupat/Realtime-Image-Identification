@@ -1,0 +1,40 @@
+body
+{
+background-image:url("background.jpg");
+}
+#h3_head
+{
+width: 100%;
+margin-top: 0;
+}
+.div_Mito
+{
+    background-color: white; 
+}
+#Mito
+{
+ color: black;
+ font-size: medium;
+}
+
+#MiTo_H5
+{
+    margin-bottom: 10;
+}
+#DBAG
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: normal;
+    background-color: gray;
+   text-align: center;
+   color: black;
+}
+canvas
+{
+    border-radius: 2px;
+    border-width: medium;
+    border-color: black;
+    border-style: solid ;
+}
